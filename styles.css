@@ -1,0 +1,46 @@
+.register
+{
+    margin: 100px auto 0;
+}
+.login
+{
+    margin: 100px auto 0;
+}
+.window
+{
+    padding: 1px 16px 5px 10px;
+    font-weight: 400;
+    overflow: hidden;
+    width: 300px;
+    height: auto;
+    background: #c8c8c8;
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.13);
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,.13);
+    box-shadow: 0 1px 3px rgba(0,0,0,.13);
+}
+.reg
+{
+    width: 320px;
+    margin: auto;
+    padding-bottom: 15px;
+}
+.log
+{
+    width: 320px;
+    margin: auto;
+    padding-bottom: 15px;
+}
+.label {
+    color: #777;
+    font-size: 14px;
+}
+form .input, input[type=text], input[type=password],.container input[type=e] {
+    background: #fbfbfb;
+    font-size: 10px;
+    line-height: 1;
+    width: 100%;
+
+    outline: none;
+    border: 1px solid #d9d9d9;
+}
+
